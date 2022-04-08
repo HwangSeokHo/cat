@@ -1,0 +1,12 @@
+패키지
+
+1.member -사용자
+2.admin -관리자
+3.main -메인
+4.notice -공지
+5.board -게시판
+6.famous -인기
+7.measure -측정
+8.manage-내 고양이 관리
+
+클래스

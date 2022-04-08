@@ -1,0 +1,5 @@
+package com.project.cat.board.model.vo;
+
+public class BoardVO {
+
+}

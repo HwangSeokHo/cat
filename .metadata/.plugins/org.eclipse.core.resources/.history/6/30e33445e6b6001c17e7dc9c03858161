@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8" isErrorPage="false"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+<!-- <style type="text/css">
+footer{
+	text-align: center;
+	background-color: #2a090a;
+	color: white;
+}
+</style> -->
+</head>
+<body>
+<!-- <footer> -->
+<!-- copyright@cat 나 살쪗냥?<br>
+2022-03-29, 팀명 : 냥덕쓰<br> -->
+ <footer class="footer text-faded text-center py-5">
+		<div class="left">
+			 <ul>
+                <li>서울시 마포구 양화로 127, 첨단빌딩 7층</li>
+                <li>대표전화 : 02-739-7235 | 팩스 : 02-733-3460 </li>
+                <li>Copyright (c) ICT인재개발원 All rights reserved.</li>
+            </ul>
+		</div>
+		 <select name="selorgan" id="selorgan">
+                    <option value="">관련기관 및 사이트</option>
+                    <option value="">빅카인즈</option>
+                    <option value="">한국ICT인재개발원</option>
+         </select>
+</footer>
+</body>
+</html>
